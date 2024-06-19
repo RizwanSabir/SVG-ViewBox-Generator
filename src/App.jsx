@@ -1,6 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
 import './App.css';
-import SvgComponent from './SvgComponent';
 
 export default function App() {
   const [x, setX] = useState(50);
