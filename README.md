@@ -1,8 +1,18 @@
-# React + Vite
+# SVG-ViewBox-Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## SVG Integration
+### SVG-ViewBox-Generator
+This project utilizes SVG-ViewBox-Generator for managing SVG viewboxes efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Useful Tools
+- [OMG SVG](https://jakearchibald.github.io/svgomg/)
+  - A web tool for optimizing SVG files.
+- [React SVGR Playground](https://react-svgr.com/playground/)
+  - A playground for transforming SVGs into React components.
+
+## Contributing
+Guidelines if you want others to contribute to your project.
+
+## License
+Information about the licensing of your project.
